@@ -1,0 +1,22 @@
+.header {
+    text-align: center; /* Positions my headings in the center of my webpage */
+    font-family: "Times New Roman", Times, serif; /* Defines the font family of my headings as Times New Roman */
+    font-size: 35px; /* Defines the size of my headings as 35 pixels */
+
+}
+
+
+#border {
+    position: fixed; /* Fixed position */
+    top: 0; /* Sets position of top margin to 0 */
+    left: 0; /* Sets position of left margin to 0 */
+    width: 100%; /* Sets width to be 100% of the border-box */
+    height: 100%; /* Sets height to be 100% of the border-box */
+    box-sizing: border-box; /* Specifies border to be box shape*/
+}
+
+body {
+    text-align: center;
+}
+
+
